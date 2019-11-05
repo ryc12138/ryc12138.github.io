@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
+title: 北京第十四中学初一九班
 subtitle:
 description: wublub dubda
 author: Logos
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
